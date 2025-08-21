@@ -19,7 +19,7 @@ Before starting, make sure you have installed:
 ## 🔑 Token configuration
 The bot uses a `.env` file to store the token securely.
 - Open the `.env` file
-- Replace `pon_aqui_tu_token` with your bot's actual token:
+- Replace `your token here` with your bot's actual token:
   ```env
   DISCORD_TOKEN=your_token_here
   ```
